@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Yoan Bastides  
 
-<!--
-**YoanBst/YoanBst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 4th year Computer Science & Software Engineering student at Polytech Montpellier  
+🌍 Currently looking for a 4-month internship (April – August 2026) in **Web Development** or **Software Engineering**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages**: Python, Java, C, JavaScript, TypeScript, HTML/CSS, Swift  
+- **Frameworks**: Angular, Node.js  
+- **Databases**: PostgreSQL, MySQL  
+- **Other**: Git, Docker, AWS, IA  
+
+---
+
+### 🚀 Projects
+- [🎮 Python Face Detection Game](https://github.com/YoanBst/FlappyHead) – OpenCV + Pygame  
+- [💬 Chat App](https://github.com/YoanBst/DiscrodLike) – Real-time chat with sockets and concurrency
+- [🏀 NBA Web App](https://github.com/YoanBst/FutureStar) – View NBA players/teams with filters (Node.js + PostgreSQL + API)  
+
+
+---
+
+📄 [Download my CV](./) | 🌐 [LinkedIn](www.linkedin.com/in/yoan-bastides-974404330) | ✉️ yoan.bastides@etu.umontpellier.fr
