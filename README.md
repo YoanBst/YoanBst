@@ -21,4 +21,4 @@
 
 ---
 
-📄 [Download my CV](https://github.com/YoanBst/YoanBst/blob/main/CV.pdf) | 🌐 [LinkedIn](https://linkedin.com/in/yoan-bastides-974404330) | ✉️ yoan.bastides@etu.umontpellier.fr
+📄 [Download my CV](https://github.com/YoanBst/YoanBst/blob/raw/main/CV.pdf) | 🌐 [LinkedIn](https://linkedin.com/in/yoan-bastides-974404330) | ✉️ yoan.bastides@etu.umontpellier.fr
