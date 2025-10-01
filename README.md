@@ -15,10 +15,10 @@
 
 ### 🚀 Projects
 - [🎮 Python Face Detection Game](https://github.com/YoanBst/FlappyHead) – OpenCV + Pygame  
-- [💬 Chat App](https://github.com/YoanBst/DiscrodLike) – Real-time chat with sockets and concurrency
+- [💬 Chat App](https://github.com/4lxss/DiscordLike) – Real-time chat with sockets and concurrency
 - [🏀 NBA Web App](https://github.com/YoanBst/FutureStar) – View NBA players/teams with filters (Node.js + PostgreSQL + API)  
 
 
 ---
 
-📄 [Download my CV](./) | 🌐 [LinkedIn](www.linkedin.com/in/yoan-bastides-974404330) | ✉️ yoan.bastides@etu.umontpellier.fr
+📄 [Download my CV](./) | 🌐 [LinkedIn](https://linkedin.com/in/yoan-bastides-974404330) | ✉️ yoan.bastides@etu.umontpellier.fr
