@@ -15,7 +15,7 @@
 
 ### 🚀 Projects
 - [🎮 Python Face Detection Game](https://github.com/YoanBst/FlappyHead) – OpenCV + Pygame  
-- [💬 Chat App](https://github.com/4lxss/DiscordLike) – Real-time chat with sockets and concurrency
+- [💬 Chat App](https://github.com/YoanBst/DiscordLike) – Real-time chat with sockets and concurrency
 - [🏀 NBA Web App](https://github.com/YoanBst/FutureStar) – View NBA players/teams with filters (Node.js + PostgreSQL + API)  
 
 
