@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Yoan Bastides  
 
 🎓 4th year Computer Science & Software Engineering student at Polytech Montpellier  
-🌍 Currently looking for a 4-month internship (April – August 2026) in **Web Development** or **Software Engineering**  
+🌍 Currently looking for a 11-month internship (September 2026) in **Backend development** or **Software Engineering**  
 
 ---
 
